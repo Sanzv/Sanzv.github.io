@@ -15,3 +15,11 @@ My Skills:
   * Can sleep.
   * Can Drink
 
+**Additional Skills:**
+
+  1. Can Run
+  2. Can Play
+  3. Can Laugh
+
+
+
